@@ -13,4 +13,4 @@ currently:
 - 📫 How to reach me: come to me instagram, @Vilda3903
 - ⚡ Fun fact: i'm an Ailurophile
 -->
-Welcome to my page! `print('Welcome!')`
+Welcome to my page!
